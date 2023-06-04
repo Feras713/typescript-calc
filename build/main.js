@@ -16,3 +16,9 @@ function func(num, name) {
     console.log(name + " is " + num + " years old");
 }
 func(30, 'feras');
+function func2() {
+    console.log("another function");
+}
+function func3() {
+    console.log("another third function");
+}
