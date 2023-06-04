@@ -21,3 +21,6 @@ function func(num: number, name: string) {
 }
 
 func(30, 'feras');
+function func2() {
+    console.log("another function");
+}
